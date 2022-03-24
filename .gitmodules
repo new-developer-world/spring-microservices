@@ -4,3 +4,15 @@
 [submodule "currency-conversion-service"]
 	path = currency-conversion-service
 	url = https://github.com/new-developer-world/currency-conversion-service.git
+[submodule "currency-exchange-service"]
+	path = currency-exchange-service
+	url = https://github.com/new-developer-world/currency-exchange-service.git
+[submodule "naming-server"]
+	path = naming-server
+	url = https://github.com/new-developer-world/naming-server.git
+[submodule "limits-service"]
+	path = limits-service
+	url = https://github.com/new-developer-world/limits-service.git
+[submodule "git-localconfig-repo"]
+	path = git-localconfig-repo
+	url = https://github.com/new-developer-world/git-localconfig-repo.git
