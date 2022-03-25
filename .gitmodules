@@ -16,3 +16,6 @@
 [submodule "git-localconfig-repo"]
 	path = git-localconfig-repo
 	url = https://github.com/new-developer-world/git-localconfig-repo.git
+[submodule "api-gateway"]
+	path = api-gateway
+	url = https://github.com/new-developer-world/api-gateway.git
